@@ -12,4 +12,4 @@ config.py requires 6 inputs:
 
 ### Notes
 - Make sure sender email has "Less secure app access" on for the Google Account
-- Meant to be run with Windows Task Scheduler to check for new available shifts periodically.
+- Designed to run with Windows Task Scheduler to check for new available shifts periodically.
